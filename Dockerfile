@@ -3,7 +3,7 @@ FROM java:8
 # Configuration variables.
 ENV JIRA_HOME     /var/atlassian/jira
 ENV JIRA_INSTALL  /opt/atlassian/jira
-ENV JIRA_VERSION  7.2.5
+ENV JIRA_VERSION  7.2.4
 ENV MYSQL_VERSION 5.1.40
 ENV POSTGRES_VERSION 9.4.1212
 
